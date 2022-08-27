@@ -10,24 +10,16 @@ obtido da API criar um arquivo XLSX.
 
 # Para inciar o programa:
 <p>
-Pelo CMD use: navegue até a pasta do arquivo "Desafio Tunts".<br/>
-Digite: venv\Scripts e precione enter.<br/>
-Digite: activate.bat para abrir o ambiente virtual<br/>
-Digite: cd ..<br/>
-Digite: cd .. Para chegar novamente a parta "Desafio Tunts"<br/>
-Digite: "c:"seu caminho"\Desafio Tunts\venv\Scripts\python.exe" "c:"seu caminho"\Desafio Tunts\download.py"<br/>
-Não esqueça das aspas<br/>
+Baixe o arquivo em zip, extraia o arquivo. <br/>
+Pelo CMD use: navegue até a pasta do arquivo "Desafio-Tunts-master"<br/>
+Digite: c:/"seu caminho"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"seu caminho"/Desafio-Tunts-master/download.py
 Precione enter e sua planilha excel sera criada no diretorio do arquivo.<br/>
 </p>
 
 # To start the program:
-
-Use CMD: go to "Desafio Tutns" directory<br/>
-Type: venv\Scripts press enter.<br/>
-Type: activate.bat to open the virtual enviroment <br/>
-Type: cd ..<br/>
-Type: cd ..     You need to be at "Desafio Tunts" directory again<br/>
-Type: "c:"path"\Desafio Tunts\venv\Scripts\python.exe" "c:"path"\Desafio Tunts\download.py"<br/>
+Download zip file and extract. <br/>
+Use CMD: go to "Desafio-Tunts-master" directory<br/>
+Type: c:/"path"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"path"/Desafio-Tunts-master/download.py
 Now press enter to get your excel file.<br/>
 
 # Outros sistemas: 
