@@ -11,17 +11,20 @@ obtido da API criar um arquivo XLSX.
 # Para inciar o programa:
 <p>
 Baixe o arquivo em zip, extraia o arquivo. <br/>
-Pelo CMD use: navegue até a pasta do arquivo "Desafio-Tunts-master"<br/>
-Digite: c:/"seu caminho"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"seu caminho"/Desafio-Tunts-master/download.py
+Pelo CMD acesse a pasta desejada para que o arquivo seja criado nela.<br/>
+Digite: c:/"seu caminho"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"seu caminho"/Desafio-Tunts-master/download.py<br/>
 Precione enter e sua planilha excel sera criada no diretorio do arquivo.<br/>
 </p>
 
 # To start the program:
 Download zip file and extract. <br/>
-Use CMD: go to "Desafio-Tunts-master" directory<br/>
-Type: c:/"path"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"path"/Desafio-Tunts-master/download.py
+In CMD go where you want to create the file.<br/>
+Type: c:/"path"/Desafio-Tunts-master/venv/Scripts/python.exe c:/"path"/Desafio-Tunts-master/download.py<br/>
 Now press enter to get your excel file.<br/>
 
-# Outros sistemas: 
+<video src="video/comousar.mp4"></video>
 
-Não sei como funcionam mas se vc conseguir startar o ambiente virtual que contem todas as bibliotecas utilizadas o programa vai funcionar.
+Veja o video abaixo para entender melhor:
+
+https://user-images.githubusercontent.com/95443404/187110474-7d12b9e0-8f8e-471a-8e9a-d9a92bae68da.mp4
+
