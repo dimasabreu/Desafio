@@ -20,3 +20,7 @@ Utilize o arquivo requirements.txt para instalar elas mais rapido:
 # Para facilitar sua vida deixei um executavel na pasta:
 
 - Executable
+
+
+https://user-images.githubusercontent.com/95443404/187489226-cbbae8e2-57a6-49ff-bc7a-54f06b6a68ae.mp4
+
