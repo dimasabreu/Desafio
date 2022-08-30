@@ -1,8 +1,8 @@
-from operator import index
 import requests
 import pandas as pd
 from formating import treatment
 
+print('Your request is being processed...')
 # first thing geting the right api
 request = requests.get("https://restcountries.com/v2/all?fields=name,capital,area,currencies").json()
 
@@ -115,3 +115,4 @@ df.pop('Currencies2')
 df.to_excel('Countries list.xlsx', index=False)
 # calling a function to treat the data
 treatment()
+print("Done")
