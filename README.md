@@ -1,10 +1,10 @@
-# Desafio Tunts:
 
-Criar uma aplicação em uma linguagem de programação de sua preferência.<br/> A aplicação deve ser capaz de ler
-informações de uma API REST, e criar uma planilha com os dados recebidos.<br/>
+
+Criar uma aplicação ETL.<br/> 
+A aplicação é capaz de ler informações de uma API REST, e criar uma planilha com os dados recebidos.<br/>
 Documentação da API: https://restcountries.com/#api-endpoints-v3-all
-A aplicação deverá fazer uma requisição HTTP para obter a lista de países, e com o resultado
-obtido da API criar um arquivo XLSX.
+A aplicação dfaz uma requisição HTTP para obter a lista de países, e com o resultado
+obtido da API cria um arquivo XLSX.
 
 # Para inciar o programa:
 
